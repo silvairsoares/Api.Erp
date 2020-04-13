@@ -1,0 +1,303 @@
+{
+	"info": {
+		"_postman_id": "c48527fd-ea6f-4de5-83da-f47653aa5724",
+		"name": "Api.Erp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Api Clientes",
+			"item": [
+				{
+					"name": "Obtem todos os clientes",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/cliente",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"cliente"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obtem um cliente específico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/cliente/10",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"cliente",
+								"10"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Inclui um novo cliente",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"id\": \"15\",\r\n        \"nome\": \"Novo Cliente\",\r\n        \"email\": \"novocliente@outlook.com\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/cliente",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"cliente"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deleta um cliente específico",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/cliente/15",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"cliente",
+								"15"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Api Comercial",
+			"item": [
+				{
+					"name": "Obtem todas as vendas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5003/api/venda/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5003",
+							"path": [
+								"api",
+								"venda",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obtem uma venda específica",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5003/api/venda/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5003",
+							"path": [
+								"api",
+								"venda",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Inclui uma nova venda",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": \"3\",\r\n    \"idCliente\": \"10\",\r\n   \"valorTotal\": 890.50\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5003/api/venda/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5003",
+							"path": [
+								"api",
+								"venda",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deleta uma venda específica",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5003/api/venda/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5003",
+							"path": [
+								"api",
+								"venda",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Api Fiscal",
+			"item": [
+				{
+					"name": "Obtem todas as notas fiscais",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5005/api/notafiscal",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5005",
+							"path": [
+								"api",
+								"notafiscal"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obtem uma nota fiscal específica",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5005/api/notafiscal/20",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5005",
+							"path": [
+								"api",
+								"notafiscal",
+								"20"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Inclui uma nova nota fiscal",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": \"31\",\r\n    \"idVenda\": \"2\",\r\n    \"valorTotalICMS\": 95,\r\n    \"valorTotalNotaFiscal\": 1095.80\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5005/api/notafiscal",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5005",
+							"path": [
+								"api",
+								"notafiscal"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deleta uma nota fiscal específica",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5005/api/notafiscal/31",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5005",
+							"path": [
+								"api",
+								"notafiscal",
+								"31"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
