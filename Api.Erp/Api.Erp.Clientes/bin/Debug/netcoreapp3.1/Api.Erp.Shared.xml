@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Erp.Shared</name>
+    </assembly>
+    <members>
+        <member name="T:Api.Erp.Shared.ViewModels.ClienteVM">
+            <summary>
+            Informações para o cadastro do cliente
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.ClienteVM.id">
+            <summary>
+            Id do cliente no Banco de Dados
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.ClienteVM.nome">
+            <summary>
+            Nome do cliente
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.ClienteVM.email">
+            <summary>
+            Email do cliente
+            </summary>
+        </member>
+        <member name="T:Api.Erp.Shared.ViewModels.NotaFiscalVmInput">
+            <summary>
+            Informações para geração de uma nova nota fiscal
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmInput.id">
+            <summary>
+            Id na Nota Fiscal no Banco de Dados
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmInput.idVenda">
+            <summary>
+            Id da venda que será a origem da Nota Fiscal
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmInput.valorTotalICMS">
+            <summary>
+            Valor total do ICMS. Formato 00000.00
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmInput.valorTotalNotaFiscal">
+            <summary>
+            Valor total da nota fiscal
+            </summary>
+        </member>
+        <member name="T:Api.Erp.Shared.ViewModels.NotaFiscalVmOutput">
+            <summary>
+            Informações da nota fiscal
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmOutput.id">
+            <summary>
+            Id na Nota Fiscal no Banco de Dados
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmOutput.Venda">
+            <summary>
+            Referência para a venda que originou a nota fiscal
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmOutput.valorTotalICMS">
+            <summary>
+            Valor total do ICMS
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.NotaFiscalVmOutput.valorTotalNotaFiscal">
+            <summary>
+            Valor total da nota fiscal
+            </summary>
+        </member>
+        <member name="T:Api.Erp.Shared.ViewModels.VendaVmInput">
+            <summary>
+            Informações para geração de uma nova venda
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmInput.id">
+            <summary>
+            Id na venda no banco de dados
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmInput.idCliente">
+            <summary>
+            Id do cliente da venda
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmInput.valorTotal">
+            <summary>
+            Valor total da venda. Formato 00000.00
+            </summary>
+        </member>
+        <member name="T:Api.Erp.Shared.ViewModels.VendaVmOutput">
+            <summary>
+            Informações da venda
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmOutput.id">
+            <summary>
+            Id na venda no banco de dados
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmOutput.cliente">
+            <summary>
+            Referência para o cliente, para o qual foi executada a venda
+            </summary>
+        </member>
+        <member name="P:Api.Erp.Shared.ViewModels.VendaVmOutput.valorTotal">
+            <summary>
+            Valor total da venda
+            </summary>
+        </member>
+    </members>
+</doc>

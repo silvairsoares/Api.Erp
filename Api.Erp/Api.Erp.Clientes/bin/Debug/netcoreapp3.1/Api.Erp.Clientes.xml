@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Erp.Clientes</name>
+    </assembly>
+    <members>
+        <member name="T:Api.Erp.Clientes.Controllers.DocsController">
+            <summary>
+            Controller para exibir a documentação da API de Clientes
+            </summary>
+        </member>
+    </members>
+</doc>

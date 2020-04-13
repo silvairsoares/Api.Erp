@@ -13,3 +13,12 @@ C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Ap
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.AssemblyInfo.cs
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.dll
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\bin\Debug\netcoreapp3.1\Api.Erp.Shared.deps.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\bin\Debug\netcoreapp3.1\Api.Erp.Shared.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\bin\Debug\netcoreapp3.1\Api.Erp.Shared.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.csprojAssemblyReference.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.AssemblyInfoInputs.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.AssemblyInfo.cs
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\obj\Debug\netcoreapp3.1\Api.Erp.Shared.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Shared\bin\Debug\netcoreapp3.1\Api.Erp.Shared.xml

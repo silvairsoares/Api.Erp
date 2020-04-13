@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Erp.Comercial</name>
+    </assembly>
+    <members>
+        <member name="T:Api.Erp.Comercial.Controllers.DocsController">
+            <summary>
+            Controller para exibir a documentação da API Comercial
+            </summary>
+        </member>
+    </members>
+</doc>

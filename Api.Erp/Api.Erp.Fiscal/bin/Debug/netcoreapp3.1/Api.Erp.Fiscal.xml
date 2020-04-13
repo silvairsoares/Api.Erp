@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Erp.Fiscal</name>
+    </assembly>
+    <members>
+        <member name="T:Api.Erp.Fiscal.Controllers.DocsController">
+            <summary>
+            Controller para exibir a documentação da API Fiscal
+            </summary>
+        </member>
+    </members>
+</doc>

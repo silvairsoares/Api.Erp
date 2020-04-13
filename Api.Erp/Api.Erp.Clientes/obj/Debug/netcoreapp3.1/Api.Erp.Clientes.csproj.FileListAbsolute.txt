@@ -53,3 +53,39 @@ C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Ap
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.csproj.CopyComplete
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.dll
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Api.Erp\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.exe
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.deps.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.runtimeconfig.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.runtimeconfig.dev.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Shared.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Shared.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.csprojAssemblyReference.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\staticwebassets\Api.Erp.Clientes.StaticWebAssets.Manifest.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\staticwebassets\Api.Erp.Clientes.StaticWebAssets.xml
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.AssemblyInfoInputs.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.AssemblyInfo.cs
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.RazorTargetAssemblyInfo.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.csproj.CopyComplete
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\obj\Debug\netcoreapp3.1\Api.Erp.Clientes.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Clientes.xml
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 2\Git - Parte 2\Api.Erp\Api.Erp.Clientes\bin\Debug\netcoreapp3.1\Api.Erp.Shared.xml

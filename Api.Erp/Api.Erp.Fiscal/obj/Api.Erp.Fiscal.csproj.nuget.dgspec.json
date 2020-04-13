@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj": {}
+    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj": {
+    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj",
+        "projectUniqueName": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj",
         "projectName": "Api.Erp.Fiscal",
-        "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj",
+        "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Fiscal\\Api.Erp.Fiscal.csproj",
         "packagesPath": "C:\\Users\\silvairls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Fiscal\\obj\\",
+        "outputPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Fiscal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj": {
-                "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj"
+              "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj": {
+                "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj": {
+    "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj",
         "projectName": "Api.Erp.Shared",
-        "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj",
+        "projectPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\Api.Erp.Shared.csproj",
         "packagesPath": "C:\\Users\\silvairls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Api.Erp\\Api.Erp\\Api.Erp.Shared\\obj\\",
+        "outputPath": "C:\\Users\\silvairls\\Documents\\Artigo Criando Web APIs modernas\\Parte 2\\Git - Parte 2\\Api.Erp\\Api.Erp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
