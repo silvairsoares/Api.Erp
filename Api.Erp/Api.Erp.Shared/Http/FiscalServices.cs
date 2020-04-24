@@ -1,6 +1,5 @@
-﻿using Api.Erp.Shared.Repository;
-using Api.Erp.Shared.ViewModels;
-using System.Linq;
+﻿using Api.Erp.Shared.ViewModels;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Api.Erp.Shared.Http
@@ -9,11 +8,9 @@ namespace Api.Erp.Shared.Http
     {
         public static async Task<NotaFiscalVmOutput> ObterNotaFiscalCompleta(NotaFiscalVmInput notafiscal)
         {
-            var venda = BaseRepository.RepositorioVendas.Where(venda => venda.id == notafiscal.idVenda).FirstOrDefault();
-            
             // Pesquisa a venda da notafiscal na Api.Erp.Comercial
-            VendaVmOutput vendaDaNotaFiscal = await ComercialServices.ObterVendaCompleta(venda);
-
+            VendaVmOutput vendaDaNotaFiscal = await PesquisarVendaPorId(notafiscal.idVenda);
+            
             // Cria um objeto com os dados completos da notafiscal, para retornar para o usuário
             NotaFiscalVmOutput notafiscalCompleta = new NotaFiscalVmOutput();
             notafiscalCompleta.id = notafiscal.id;
@@ -22,6 +19,19 @@ namespace Api.Erp.Shared.Http
             notafiscalCompleta.valorTotalNotaFiscal = notafiscal.valorTotalNotaFiscal;
 
             return notafiscalCompleta;
+        }
+
+        private static async Task<VendaVmOutput> PesquisarVendaPorId(string id)
+        {
+            // Rota que retorna uma venda pelo id pesquisado
+            var url = "http://localhost:5003/api/venda/" + id;
+
+            // Executa a requisição http de forma assíncrona
+            var response = await RequestHttp.Request(url);
+
+            // Converte o JSON retornado pela api em um objeto do tipo VendaVmOutput
+            VendaVmOutput venda = JsonSerializer.Deserialize<VendaVmOutput>(response);
+            return venda;
         }
     }
 }
