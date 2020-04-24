@@ -40,3 +40,24 @@ C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Api.Erp\Ap
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Api.Erp\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.csproj.CopyComplete
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Api.Erp\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.dll
 C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Api.Erp\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.exe
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.deps.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.runtimeconfig.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.runtimeconfig.dev.json
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Fiscal.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Shared.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\bin\Debug\netcoreapp3.1\Api.Erp.Shared.pdb
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.csprojAssemblyReference.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\staticwebassets\Api.Erp.Fiscal.StaticWebAssets.Manifest.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\staticwebassets\Api.Erp.Fiscal.StaticWebAssets.xml
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.AssemblyInfoInputs.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.AssemblyInfo.cs
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.RazorTargetAssemblyInfo.cache
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.csproj.CopyComplete
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.dll
+C:\Users\silvairls\Documents\Artigo Criando Web APIs modernas\Parte 1\Git - Parte 1\Api.Erp\Api.Erp.Fiscal\obj\Debug\netcoreapp3.1\Api.Erp.Fiscal.pdb

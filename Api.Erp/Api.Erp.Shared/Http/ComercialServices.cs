@@ -35,12 +35,12 @@ namespace Api.Erp.Shared.Http
             return vendaCompleta;
         }
 
-        public static async Task<VendaVmOutput> ObterVendaCompletaPorId(string id)
-        {
-            // Obtem os dados da venda, salvos no repositório de vendas
-            var venda = BaseRepository.RepositorioVendas.Where(cli => cli.id == id).FirstOrDefault();
+        //public static async Task<VendaVmOutput> ObterVendaCompletaPorId(string id)
+        //{
+        //    // Obtem os dados da venda, salvos no repositório de vendas
+        //    var venda = BaseRepository.RepositorioVendas.Where(cli => cli.id == id).FirstOrDefault();
 
-            return await ObterVendaCompleta(venda);
-        }
+        //    return await ObterVendaCompleta(venda);
+        //}
     }
 }
