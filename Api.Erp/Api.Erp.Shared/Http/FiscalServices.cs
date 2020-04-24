@@ -11,10 +11,10 @@ namespace Api.Erp.Shared.Http
         {
             var venda = BaseRepository.RepositorioVendas.Where(venda => venda.id == notafiscal.idVenda).FirstOrDefault();
 
-            // Pesquisa a venda da notafiscal na Api.Erp.Comercial
+            // Pesquisa a venda da nota fiscal na Api.Erp.Comercial
             VendaVmOutput vendaDaNotaFiscal = await ComercialServices.ObterVendaCompleta(venda);
 
-            // Cria um objeto com os dados completos da notafiscal, para retornar para o usuário
+            // Cria um objeto com os dados completos da nota fiscal, para retornar para o usuário
             NotaFiscalVmOutput notafiscalCompleta = new NotaFiscalVmOutput();
             notafiscalCompleta.id = notafiscal.id;
             notafiscalCompleta.Venda = vendaDaNotaFiscal;

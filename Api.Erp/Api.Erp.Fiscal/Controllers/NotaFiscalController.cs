@@ -21,7 +21,7 @@ namespace Api.Erp.Fiscal.Controllers
         [HttpGet("{id}")]
         public async Task<NotaFiscalVmOutput> GetNotaFiscalById(string id)
         {
-            // Obtem os dados da notafiscal, salvos no repositório de notafiscals
+            // Obtem os dados da nota fiscal, salvos no repositório de notas fiscais
             var notafiscal = BaseRepository.RepositorioNotasFiscais.Where(cli => cli.id == id).FirstOrDefault();
             NotaFiscalVmOutput notafiscalCompleta = await FiscalServices.ObterNotaFiscalCompleta(notafiscal);
 
@@ -29,16 +29,16 @@ namespace Api.Erp.Fiscal.Controllers
         }
 
         [HttpGet]
-        public async Task<ICollection<NotaFiscalVmOutput>> GetAllNotaFiscals()
+        public async Task<ICollection<NotaFiscalVmOutput>> GetAllnotafiscais()
         {
-            ICollection<NotaFiscalVmOutput> notafiscalsCompletas = new List<NotaFiscalVmOutput>();
+            ICollection<NotaFiscalVmOutput> notasFiscaisCompletas = new List<NotaFiscalVmOutput>();
 
             foreach (var item in BaseRepository.RepositorioNotasFiscais)
             {
-                notafiscalsCompletas.Add(await FiscalServices.ObterNotaFiscalCompleta(item));
+                notasFiscaisCompletas.Add(await FiscalServices.ObterNotaFiscalCompleta(item));
             }
 
-            return notafiscalsCompletas;
+            return notasFiscaisCompletas;
         }
 
         [HttpDelete("{id}")]
@@ -49,14 +49,14 @@ namespace Api.Erp.Fiscal.Controllers
             {
                 return new
                 {
-                    resultado = "NotaFiscal: " + id + " excluida com sucesso!"
+                    resultado = "Nota fiscal: " + id + " excluida com sucesso!"
                 };
             }
             else
             {
                 return new
                 {
-                    resultado = "Erro ao excluir a notafiscal " + id
+                    resultado = "Erro ao excluir a nota fiscal " + id
                 };
             }
         }
