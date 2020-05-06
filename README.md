@@ -1,6 +1,6 @@
 # Api.Erp
 
-Projeto de exemplo para o artigo "**[Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços](https://www.profissionaisti.com.br/?p=45377)**"
+Projeto de exemplo para o artigo **[Criando Web APIs modernas, autônomas e rastreáveis com .Net Core utilizando arquitetura de microsserviços](https://www.profissionaisti.com.br/?p=45377)**
 
 Documentação automática das Web APIs utilizando a seguinte ferramenta:
 
